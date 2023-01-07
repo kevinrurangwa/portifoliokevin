@@ -71,6 +71,22 @@ body{
             margin-top: -330px;
         
        }
+       .explanation{
+        
+    
+        border: none;
+        width: 200px;
+        height:150px ;
+        margin-top: -130px;
+        margin-left:210px;
+      
+        
+        
+
+       }
+
+
+
        button{
         border: none;
         border-radius: 10px;
@@ -89,9 +105,8 @@ body{
         position: fixed;
 
        } 
-       .inner-left-bottom{
 
-       }         
+               
        .inner-left-bottom{
         width: 33%;
         height: 25%;
@@ -133,8 +148,6 @@ body{
         
        }
        ul,a,li:hover{
-        color:red;
-        
-
-        
+        color:red; 
        }
+       
